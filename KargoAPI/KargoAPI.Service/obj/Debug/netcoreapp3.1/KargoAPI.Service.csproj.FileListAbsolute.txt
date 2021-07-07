@@ -1,0 +1,12 @@
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\bin\Debug\netcoreapp3.1\KargoAPI.Service.deps.json
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\bin\Debug\netcoreapp3.1\KargoAPI.Service.dll
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\bin\Debug\netcoreapp3.1\KargoAPI.Service.pdb
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\bin\Debug\netcoreapp3.1\KargoAPI.Core.dll
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\bin\Debug\netcoreapp3.1\KargoAPI.Core.pdb
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.AssemblyInfo.cs
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.csproj.CopyComplete
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.dll
+C:\Users\MSI\source\repos\KargoAPI\KargoAPI.Service\obj\Debug\netcoreapp3.1\KargoAPI.Service.pdb

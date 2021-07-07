@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoAPI.Core", "KargoAPI.Core\KargoAPI.Core.csproj", "{9ACC8383-D23D-41F0-B047-89AC5F2A48AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoAPI.Service", "KargoAPI.Service\KargoAPI.Service.csproj", "{844AE81D-9392-4837-86A7-07D3DFA0ECD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoAPI.Data", "KargoAPI.Data\KargoAPI.Data.csproj", "{34AB81F6-ECDB-4C3A-86CE-F81B15DF1522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KargoAPI.Api", "KargoAPI.Api\KargoAPI.Api.csproj", "{AD6D4DAC-E032-4D23-8524-7402A3DF4DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACC8383-D23D-41F0-B047-89AC5F2A48AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACC8383-D23D-41F0-B047-89AC5F2A48AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACC8383-D23D-41F0-B047-89AC5F2A48AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACC8383-D23D-41F0-B047-89AC5F2A48AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844AE81D-9392-4837-86A7-07D3DFA0ECD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844AE81D-9392-4837-86A7-07D3DFA0ECD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844AE81D-9392-4837-86A7-07D3DFA0ECD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844AE81D-9392-4837-86A7-07D3DFA0ECD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34AB81F6-ECDB-4C3A-86CE-F81B15DF1522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34AB81F6-ECDB-4C3A-86CE-F81B15DF1522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34AB81F6-ECDB-4C3A-86CE-F81B15DF1522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34AB81F6-ECDB-4C3A-86CE-F81B15DF1522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6D4DAC-E032-4D23-8524-7402A3DF4DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6D4DAC-E032-4D23-8524-7402A3DF4DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6D4DAC-E032-4D23-8524-7402A3DF4DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6D4DAC-E032-4D23-8524-7402A3DF4DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {449DA02E-8194-4351-9BEC-3E6CD41A41CC}
+	EndGlobalSection
+EndGlobal
